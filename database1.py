@@ -3,7 +3,7 @@ from module import recruiter
 import pandas as pd
 import re
 from datetime import datetime
-con=db.connect(host="localhost", user="root",passwd='Arjun@123',db="BasicDB")
+con=db.connect(host="localhost", user="root",passwd='******',db="******")
 cursor=con.cursor()
 
 #---------------------Admin Table----------------------------------------------
